@@ -1,0 +1,1 @@
+Hello. I'm learning code and i'm sharing my progress here in the community. This code reads the names, ages and heights of a certain amount of people(of your choice) and then outputs their average height, the percentage of people below 16 years old and their respective names.
